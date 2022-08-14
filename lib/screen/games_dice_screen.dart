@@ -74,8 +74,8 @@ class _GamesDiceScreenState extends State<GamesDiceScreen> {
                 ),
               ),
               SizedBox(
-                width: 251,
-                height: 201,
+                width: 250,
+                height: 200,
                 child: GridView.builder(
                     gridDelegate:
                         const SliverGridDelegateWithFixedCrossAxisCount(
