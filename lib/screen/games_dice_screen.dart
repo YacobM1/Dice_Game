@@ -73,7 +73,7 @@ class _GamesDiceScreenState extends State<GamesDiceScreen> {
                       fontWeight: FontWeight.w600),
                 ),
               ),
-              Container(
+              SizedBox(
                 width: 250,
                 height: 200,
                 child: GridView.builder(
